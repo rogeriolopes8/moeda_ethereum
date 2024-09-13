@@ -1,5 +1,5 @@
-# moeda_etherium
-Criação de uma moeda na rede Etherium
+# moeda_ethereum
+Criação de uma moeda na rede Ethereum
 
 
 Utilização do software Ganache;
