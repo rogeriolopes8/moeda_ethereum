@@ -6,7 +6,7 @@ Utilização do software Ganache;
 Utilização do pluguin Meta mask; e
 Utilização do Remix ethereum ( https://remix.ethereum.org/ ).
 
-
+Utilizar o codigo no remix e salvar com a extensão .sol
 
 
 
